@@ -1,4 +1,4 @@
-### <div align="center">I'm Vishal, a full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Vishal, a full-stack developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on AI companion SAAS project  
